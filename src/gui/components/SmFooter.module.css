@@ -1,0 +1,24 @@
+.colorLight{
+    color: #e6fffb;
+}
+
+.overflowHidden {
+    overflow-y: hidden;
+}
+
+.footer {
+    background: #006d75;
+    margin-top: 8px;
+    padding: 8px;
+}
+
+.footer .status{
+    margin: 2px;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+}
+
+.footer .content{
+    max-height: 24px;
+}

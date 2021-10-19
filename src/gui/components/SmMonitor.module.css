@@ -1,0 +1,11 @@
+.monitor {
+    border:8px solid #006d75;
+    margin-top: 8px;
+    box-sizing: border-box;
+    overflow: auto;
+    word-break: break-all;
+    background: #ffffff;
+    height: 100%;
+}
+
+
